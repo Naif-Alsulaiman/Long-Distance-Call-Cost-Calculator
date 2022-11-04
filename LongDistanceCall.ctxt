@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LongDistanceCall
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LongDistanceCall\ here.\r\n\ \r\n\ This\ program\ computes\ long\ distance\ calls,\ with\ different\ rates\ in\ differenet\ times.\r\n\ The\ program\ would\ calculate\ calls\ from\ 08\:00\ AM\ to\ 16\:00\ PM\ to\ be\ at\ 0.40\u20AC\ per\ minutes\ in\ weekdays\r\n\ 0.25\u20AC\ per\ minute\ for\ other\ times\ in\ weekdays,\ this\ program\ can\ also\ calculate\ mixed\ rates\ and\ times.\r\n\ Calls\ on\ weekends\ (Saturday,\ Sunday)\ will\ have\ a\ constant\ rate\ of\ 0.15\u20AC\ per\ minute\ not\ matter\ what\ time.\r\n\r\n\ Naif\ Alsulaiman\ (21230176)\r\n\ Assignment1\ (03/10/2022)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
